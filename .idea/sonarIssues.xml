@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Android_NatLibrary/app/src/main/jni/EchoSocketClient.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Android_NatLibrary/app/src/main/jni/EchoSocketClient.h">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Android_NatLibrary/app/src/main/jni/com_tvt_network_NatTraveral.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SuperLivePlus/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SuperLivePlus/app/src/main/java/com/tvt/network/NatTraveral.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-bg-rBG/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-cs-rCZ/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-de-rDE/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-el-rGR/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-es-rES/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-fr-rCA/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-fr-rFR/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-hu-rHU/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-it-rIT/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-ja-rJP/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-ko-rKR/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-nl-rNL/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-pl-rPL/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-pt-rBR/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-pt-rPT/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-ro-rRO/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-ru-rRU/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-tr-rTR/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-zh-rHK/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values-zh-rTW/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/SuperLivePlus/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/main/java/com/tvt/network/Login.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/main/java/com/tvt/network/PlaybackViewLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/main/java/com/tvt/network/ServerIPCamera.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../APP_ANDROID/1.5.0_F_branches_0712/SuperLivePlus/app/src/main/java/com/tvt/network/ServerIPCameraHeader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/main.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/Content.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/button.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/content.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/contentbar.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/textbar.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/test/title.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/title/title.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/views/home.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pubspec.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
