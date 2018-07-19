@@ -7,7 +7,7 @@ A new Flutter application.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-git commit and push
+## git commit and push
 
 git init   // 初始化版本库
 
